@@ -1,7 +1,7 @@
-# Exp - 6 STUDENT COURSE ENROLLMENT SYSTEM
+# Exp - 6 STUDENT EXAM REGISTRATION SYSTEM
 
 ## AIM: 
-To draw a UML diagram for a Student Course Enrollment System.
+To draw a UML diagram for a Student Exam Registration System.
 
 ## SRS (Procedure):
 
@@ -55,4 +55,4 @@ Procedure-:
 
 
 ## RESULT:
-Thus, the UML Diagrams for a Student course enrollment System has been drawn and verified.
+Thus, the UML Diagrams for a Student exam registration System has been drawn and verified.
